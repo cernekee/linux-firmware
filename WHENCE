@@ -2110,3 +2110,21 @@ File: intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
 --------------------------------------------------------------------------
+
+Driver: rp2 -- Comtrol RocketPort 2 serial driver
+
+File: rp2.fw
+
+Licence:
+Copyright (C) 2013 Comtrol Corporation
+
+Comtrol grants permission to use and redistribute these firmware
+files for use with Comtrol devices, but not as part of the Linux
+kernel or in any other form which would require these files themselves
+to be covered by the terms of the GNU General Public License.
+
+These firmware files are distributed in the hope that they will be
+useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+--------------------------------------------------------------------------
